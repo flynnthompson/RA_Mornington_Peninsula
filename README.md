@@ -10,7 +10,7 @@
     - Spatial Maps
 
 **Project Leads**
-* Flynn Thompson, University of Melbourne, ARC 
+* Flynn Thompson,
 
 **Project members:**
 * name, affiliation/github username
