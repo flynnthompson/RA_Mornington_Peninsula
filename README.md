@@ -1,12 +1,16 @@
-# Project title
+# Research Assistant - Mornington Peninsula Climate Analysis
 
-**Research area:**
-
-**Research questios:**
+**Research questions:**
+    - Rainfall & Temperature Trends (Annual & Seasonal)
+    - Trends in Heatwaves
+    - Number of days with maximum temperature above 30, 35, 40 degrees
+    - Combination of Hot & Dry Periods
+    - Trends in Drought Periods
+    - Aridity Analysis
+    - Spatial Maps
 
 **Project Leads**
-* name, affiliation/github username
-* 
+* Flynn Thompson, University of Melbourne, ARC 
 
 **Project members:**
 * name, affiliation/github username
