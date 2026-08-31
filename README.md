@@ -1,6 +1,6 @@
 # Research Assistant - Mornington Peninsula Climate Analysis
 
-**Research questions:**
+**Research:**
     - Rainfall & Temperature Trends (Annual & Seasonal)
     - Trends in Heatwaves
     - Number of days with maximum temperature above 30, 35, 40 degrees
@@ -15,31 +15,3 @@
 **Project members:**
 * Stefan Arndt, University of Melbourne
 * 
-
-
-This project is structured as following:
-
-```bash
-project_name/
-├── analysis
-│   ├── example.ipynb
-│   └── figures
-│       └── .figures
-├── data # (optional, link to data project)
-│   ├── processed
-│   └── raw
-│       └── DO_NOT_EDIT
-├── .envrc
-├── .git
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── src
-│   └── project_name
-│       ├── __init__.py
-│       └── sample_fun.py
-└── tests
-    └── project_name
-        └── test_sample_fun.py
-
-```
