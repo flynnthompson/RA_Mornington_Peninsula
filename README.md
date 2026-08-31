@@ -10,8 +10,7 @@
 - Spatial Maps
 
 **Project Leads**
-* Flynn Thompson, University of Melbourne, ARC Centre of Excellence for the Weather of the 21st Century
+Flynn Thompson, University of Melbourne, ARC Centre of Excellence for the Weather of the 21st Century
 
 **Project members:**
-* Stefan Arndt, University of Melbourne
-* 
+Stefan Arndt, University of Melbourne
